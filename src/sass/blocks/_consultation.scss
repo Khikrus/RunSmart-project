@@ -8,4 +8,16 @@
         font-size: 20px;
         font-weight: 500;
     }
+    .error {
+        border: 1px solid red;
+    }
+    label.error {
+        border: none;
+        text-align: center;
+        font-size: 14px;
+        font-weight: 300;
+        color: white;
+        margin-top: -10px;
+        margin-bottom: 15px;
+    }
 }
